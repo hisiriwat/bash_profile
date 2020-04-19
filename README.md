@@ -9,7 +9,9 @@
 * You can use other editors:
 
 > nano ~/.bash_profile
+
 > mate ~/.bash_profile
+
 > vim ~/.bash_profile
 
 2. run source ~/.bash_profile every time start new terminal
