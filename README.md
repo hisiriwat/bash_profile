@@ -18,6 +18,10 @@
 
 > sudo nano ~/.zshrc
 
+* If you are using **oh-my-zsh**, the default one that will be loaded automatically is **~/.zshrc**. All you need to do is adding the following at the end of **~/.zshrc**:
+
 > if [ -f ~/.bash_profile ]; then
+
 >  . ~/.bash_profile
+
 > fi
