@@ -14,7 +14,7 @@
 
 > vim ~/.bash_profile
 
-2. run source ~/.bash_profile every time start new terminal
+2. Run source ~/.bash_profile every time start new terminal
 
 > sudo nano ~/.zshrc
 
